@@ -1,0 +1,15 @@
+Hello
+I am changing the log
+This is with a 1000 interval
+
+I am watching the file using fs.watch
+
+I am only watching for changes to the file
+
+Changing the file
+
+Changing it again
+
+Last time i am changing the file
+
+Changing the file
